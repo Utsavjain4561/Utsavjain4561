@@ -8,7 +8,7 @@
   </p>
   
 ## Stuff I have been working on &#x26A1;
-<p float="left">
+<p align='center' float="left">
   
     
   <img src="https://i.stack.imgur.com/JlSEL.png" alt="drawing" width="40px" margin="50px"/>
